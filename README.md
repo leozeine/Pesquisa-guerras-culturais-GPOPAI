@@ -1,7 +1,7 @@
 # Pesquisa-guerras-culturais-GPOPAI
 Clustering em perguntas morais de pesquisa municipal em São Paulo - GPOPAI USP. Segundo semestre de 2019
 
-## Coordendas.ipynb
+### Coordendas.ipynb
 
 Visualizing previously clustered data (KMeans). Each point is a person's response of a moral questionnaire. 
 The questionnaire contains 11 questions made by a liberal point of view and 11 by a conservative point of view. 
